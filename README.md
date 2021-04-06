@@ -1,7 +1,7 @@
 # mikro-orm-null-decorators
 Override [mikro-orm] decorators with null versions so that models can be used
-outside of the server environment. Hopefully this will make mikro-orm core or 
-that team will develop a better solution at some point.
+outside of the server environment. Hopefully the mikro-orm team will develop a 
+better solution at some point.
 
 
 ## Usage
